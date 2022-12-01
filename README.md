@@ -1,2 +1,2 @@
 # React_Examples
-Small React Projects
+Small React Project Examples
